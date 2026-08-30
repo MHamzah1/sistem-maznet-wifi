@@ -1,0 +1,9 @@
+node_modules
+dist
+.wrangler
+.vercel
+.jatevo
+.dev.vars*
+*.local
+.env*
+!.env.example

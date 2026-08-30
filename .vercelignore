@@ -1,0 +1,11 @@
+.jatevo
+.wrangler
+.dev.vars*
+.env*
+!.env.example
+worker
+wrangler.jsonc
+migrations/*.sql
+migrations/meta
+seeds
+*.local

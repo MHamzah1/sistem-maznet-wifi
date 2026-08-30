@@ -1,0 +1,8 @@
+{
+  "key": "vercel-vite-app",
+  "name": "Maznet Berkah Billing",
+  "description": "Vite SPA with Vercel Functions and optional Postgres persistence.",
+  "runtime": "vercel-node",
+  "supportsDatabase": true,
+  "publishTarget": "vercel"
+}
